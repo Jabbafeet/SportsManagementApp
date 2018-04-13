@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Football Management App</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+</resources>
